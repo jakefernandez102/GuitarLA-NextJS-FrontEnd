@@ -64,7 +64,7 @@ export default function Producto ( { guitarra,agregarCarrito } ) {
 
                         <input
                             type="submit"  
-                            value='Agregar al corrito'/>
+                            value='Agregar al carrito'/>
                     </form>
 
                 </div>

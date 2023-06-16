@@ -1,0 +1,15 @@
+.contenido {
+    display: grid;
+    gap: 4rem;
+}
+
+@media screen and (min-width: 768px) {
+    .contenido {
+        grid-template-columns: repeat(2, 1fr);
+        align-items: center;
+    }
+}
+
+.texto {
+    text-align: justify;
+}
